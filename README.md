@@ -3,6 +3,7 @@ Predicting incidences of crime in neighborhoods throughout the US.
 
 #### Overview
 The Communities and Crime Data Set collected 122 socioeconomic and law enforcement features to analyze their relationship with the rate of neighborhood violent crime per 100K Population.
+Link to data: https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime
 
 #### Data
 * N = 1,944 individual counties in the United States were observed.
